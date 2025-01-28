@@ -3,7 +3,7 @@ finpers: Personal Financial Tracker
 App was built solo by Cizario Gum.
 
 Introduction
-
+https://www.youtube.com/watch?v=_0tXM7txTXE
 finpers is a personal financial tracking application built with React, Redux, and Firestore. It empowers you to take control of your finances by providing a user-friendly interface to track your income, expenses, and overall financial health.
 
 Features
