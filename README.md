@@ -32,6 +32,8 @@ Bash
 
 cd finpers
 npm install  # or yarn install
+npm install react-router-dom antd @ant-design/charts moment firebase react-firebase-hooks papaparse react-toastify
+npm start
 Running the Application
 
 Set up Firebase Configuration:
