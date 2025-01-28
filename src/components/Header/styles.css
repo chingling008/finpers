@@ -7,9 +7,9 @@
   justify-content: space-between;
   align-items: center;
 }
-
+/*Nav bar needs to change*/
 .navbar-heading {
-  color: #fff;
+  color: #ffffff;
   font-weight: 500;
   margin: 0px;
   font-size: 1.2rem;
